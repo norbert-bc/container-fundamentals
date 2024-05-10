@@ -1,3 +1,3 @@
 #! /usr/bin/env bash
 
-docker build -t edge-server-docker-course:first_week .
+docker build -t edge_server:v1 .
